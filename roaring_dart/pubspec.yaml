@@ -1,0 +1,11 @@
+name: roaring_dart
+
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+
+dependencies:
+  ffi: ^1.1.1
+  ffigen:
+
+dev_dependencies:
+  extra_pedantic: 3.0.0

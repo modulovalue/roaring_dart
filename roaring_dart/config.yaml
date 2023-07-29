@@ -1,0 +1,6 @@
+name: DartRoaringBitmaps
+description: Bindings to RoaringBitmaps.
+output: 'generated_bindings.dart'
+headers:
+  entry-points:
+    - 'lib/meta/roaring.h'
